@@ -33,7 +33,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 see also [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)  
 
 ##Some Links  
-
+[Cain Shiftregisters](http://www.protostack.com/blog/2010/05/introduction-to-74hc595-shift-register-controlling-16-leds/)  
 [https://www.sparkfun.com/products/9519](https://www.sparkfun.com/products/9519)  
 [http://arduino.cc/en/tutorial/ShiftOut](http://arduino.cc/en/tutorial/ShiftOut)  
 [file:///Applications/Arduino.app/Contents/Resources/Java/reference/ByteCast.html](file:///Applications/Arduino.app/Contents/Resources/Java/reference/ByteCast.html)  
